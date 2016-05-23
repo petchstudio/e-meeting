@@ -1,0 +1,40 @@
+.loader-circle {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	border: 2px solid $loader-circle-color;
+	margin-left: -60px;
+	margin-top: -60px;
+
+	.loader-line-mask {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		width: 60px;
+		height: 120px;
+		margin-left: -60px;
+		margin-top: -60px;
+		overflow: hidden;
+		transform-origin: 60px 60px;
+		animation: rotate 1s infinite linear;
+
+		.loader-line {
+			width: 120px;
+			height: 120px;
+			border-radius: 50%;
+			border: 2px solid $loader-line-color;
+		}
+	}
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	};
+}

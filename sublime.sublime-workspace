@@ -1,0 +1,1254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request	L5 Request "
+			],
+			[
+				"Req",
+				"Request::input	Retrieve an input item from the request."
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"A",
+				"Auth::user	Get the currently authenticated user."
+			],
+			[
+				"va",
+				"vertical-align: "
+			],
+			[
+				"w",
+				"width: "
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"tr",
+				"target	Attr"
+			],
+			[
+				"Route",
+				"Route::group	Create a Group of Routes"
+			],
+			[
+				"is",
+				"is_null"
+			],
+			[
+				"box",
+				"box-sizing: "
+			],
+			[
+				"bdra",
+				"border-radius: "
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bgc",
+				"background-color: "
+			],
+			[
+				"bdb",
+				"border-bottom: "
+			],
+			[
+				"bdrt",
+				"border-top: "
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"v",
+				"vertical-align: "
+			],
+			[
+				"bd",
+				"border: "
+			],
+			[
+				"bg",
+				"background-image: "
+			],
+			[
+				"requ",
+				"Request"
+			],
+			[
+				"isn",
+				"is_numeric"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"char",
+				"CharIDEnd"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"te",
+				"text-indent: "
+			],
+			[
+				"Auth",
+				"Auth::user	Get the currently authenticated user."
+			],
+			[
+				"DB",
+				"DB"
+			],
+			[
+				"connt",
+				"connection"
+			],
+			[
+				"rm",
+				"rm-mit	The MIT License"
+			],
+			[
+				"rm-git",
+				"rm-github_webpage	GitHub Web page"
+			],
+			[
+				"fon",
+				"font-family: "
+			],
+			[
+				"o",
+				"outline: "
+			],
+			[
+				"bdrb",
+				"border-bottom-left-radius: "
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ff",
+				"font-family"
+			],
+			[
+				"DBc",
+				"db2_connect"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"View",
+				"View::share	Share Data across all Views"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"wor",
+				"word-wrap: "
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"file",
+				"file_put_contents"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"Routec",
+				"Route::controller	Route a controller to a URI with wildcard routing."
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"ou",
+				"outerWidth	.outerWidth()"
+			],
+			[
+				"eac",
+				"each	$.each()"
+			],
+			[
+				"min",
+				"min-height: "
+			],
+			[
+				"tra",
+				"transform: "
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"ma",
+				"max	Attr"
+			],
+			[
+				"ha",
+				"hardware"
+			],
+			[
+				"hard",
+				"hardwares"
+			],
+			[
+				"เพิ่ม",
+				"เพิ่มข้อมูล"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"Reque",
+				"Request::ajax	Determine if the request is the result of an AJAX call."
+			],
+			[
+				"g",
+				"get	.get()"
+			],
+			[
+				"pra",
+				"parents	.parents()"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"bdr",
+				"border-top-right-radius: "
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"ba",
+				"background-attachment: "
+			],
+			[
+				"b",
+				"background-repeat: "
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"text",
+				"text-transform: "
+			],
+			[
+				"t",
+				"top: "
+			],
+			[
+				"l",
+				"left: "
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"get_cont",
+				"file_get_contents"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"af",
+				"insertAfter"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"bdbr",
+				"border-bottom-right-radius: "
+			],
+			[
+				"ls",
+				"list-style: "
+			],
+			[
+				"br",
+				"border-radius: "
+			],
+			[
+				"tt",
+				"text-transform: "
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"m",
+				"margin: "
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border-t",
+				"border-top: "
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"server",
+				"server_output"
+			],
+			[
+				"mar",
+				"margin: "
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"fw",
+				"font-weight: "
+			],
+			[
+				"ta",
+				"text-align: "
+			],
+			[
+				"floa",
+				"float"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"bxs",
+				"bxsh:n	box-shadow:none"
+			],
+			[
+				"wh",
+				"width	.width()"
+			],
+			[
+				"ca",
+				"categorys"
+			],
+			[
+				"ov",
+				"ov:h	overflow:hidden"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"mh",
+				"mah	max-height"
+			],
+			[
+				"z",
+				"zin	z-index"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"sli",
+				"slideUp	.slideUp()"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"fals",
+				"fails"
+			],
+			[
+				"r",
+				"rows	Attr"
+			],
+			[
+				"stru",
+				"strtoupper"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"animat",
+				"animate	.animate()"
+			],
+			[
+				"tog",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"bn",
+				"bd-n	border: none;"
+			],
+			[
+				"Refill",
+				"RefillCallbackController"
+			],
+			[
+				"mi",
+				"mih	min-height"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"sta",
+				"status"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "formate",
+		"selected_items":
+		[
+			[
+				"formate",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"for",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Work/Website/works.petch.e-meeting",
+		"/D/Work/Website/works.petch.e-meeting/app",
+		"/D/Work/Website/works.petch.e-meeting/app/Http",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers",
+		"/D/Work/Website/works.petch.e-meeting/database/migrations",
+		"/D/Work/Website/works.petch.e-meeting/public/assets",
+		"/D/Work/Website/works.petch.e-meeting/public/assets/javascripts",
+		"/D/Work/Website/works.petch.e-meeting/resources",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/bootstrap-sass-3.3.6",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/bootstrap-sass-3.3.6/bootstrap",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/custom-theme",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/custom-theme/custom",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/petch-bootstrap-sass-1.0.0",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/petch-bootstrap-sass-1.0.0/petch-bootstrap",
+		"/D/Work/Website/works.petch.e-meeting/resources/lang/th",
+		"/D/Work/Website/works.petch.e-meeting/resources/views",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/meeting",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/layouts",
+		"/D/Work/Website/works.petch.e-meeting/vendor",
+		"/D/Work/Website/works.petch.e-meeting/vendor/laravel",
+		"/D/Work/Website/works.petch.e-meeting/vendor/laravel/framework",
+		"/D/Work/Website/works.petch.e-meeting/vendor/laravel/framework/src",
+		"/D/Work/Website/works.petch.e-meeting/vendor/laravel/framework/src/Illuminate",
+		"/D/Work/Website/works.petch.e-meeting/vendor/laravel/framework/src/Illuminate/Foundation"
+	],
+	"file_history":
+	[
+		"/D/Work/Website/works.petch.e-meeting/resources/views/home.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/MeetingController.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/ApiController.php",
+		"/D/Work/Website/com.syslogmatch/app/User.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/ApiController.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/routes.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/routes.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/Admin/MeetingUserController.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/includes/header.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/layouts/admin.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/layouts/app.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/meeting-user/index.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/meeting-user/create.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/app/MeetingUser.php",
+		"/D/Work/Website/works.petch.e-meeting/database/migrations/2016_05_23_072146_create_meeting_users_table.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/meeting/index.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/database/migrations/2016_05_23_051952_create_positions_table.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/ProjectController.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/position/edit.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/meeting/edit.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/Admin/MeetingController.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Kernel.php",
+		"/D/Work/Website/com.syslogmatch/app/Http/Controllers/Auth/AuthController.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/Admin/PositionController.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/meeting/create.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/auth/register.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/auth/login-form.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/database/migrations/2016_05_23_054642_create_meetings_table.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Meeting.php",
+		"/D/Work/Website/works.petch.system-sdu/resources/views/layouts/member.blade.php",
+		"/D/Work/Website/works.petch.system-sdu/resources/views/member/activities/create.blade.php",
+		"/D/Work/Website/works.petch.system-sdu/resources/views/member/activities/index.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/app/User.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/user/index.blade.php",
+		"/D/Work/Website/works.petch.system-sdu/app/Http/Controllers/ActivitiesController.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/position/create.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/position/index.blade.php",
+		"/D/Work/Website/works.petch.hardware-management/resources/views/admin/hardware/index.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/Admin/UserController.php",
+		"/D/Work/Website/works.petch.e-meeting/public/assets/javascripts/plugins/bootstrap-sweetalert/lib/sweet-alert.css",
+		"/D/Work/Website/works.petch.e-meeting/app/Position.php",
+		"/D/Work/Website/works.petch.system-sdu/app/Activities.php",
+		"/D/Work/Website/works.petch.system-sdu/resources/views/activities-show.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/user/edit.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Work/Website/works.petch.system-sdu/resources/views/activities.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/user/create.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/admin/index.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/includes/script.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/HomeController.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Controllers/Auth/AuthController.php",
+		"/D/Work/Website/works.petch.e-meeting/app/Http/Middleware/AdminMiddleware.php",
+		"/D/Work/Website/works.petch.e-meeting/database/seeds/UsersTableSeeder.php",
+		"/D/Work/Website/works.petch.e-meeting/database/seeds/DatabaseSeeder.php",
+		"/D/Work/Website/works.petch.system-sdu/composer.json",
+		"/D/Work/Website/works.petch.e-meeting/resources/lang/th/validation.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/auth/passwords/email.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/auth/passwords/reset.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/auth/login.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/petch-bootstrap-sass-1.0.0/petch-bootstrap/_forms.scss",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/custom-theme/custom-theme.scss",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/custom-theme/custom/_bootstrap-variables.sass",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/bootstrap-sass-3.3.6/bootstrap/_navbar.scss",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/custom-theme/custom/_navbar.scss",
+		"/D/Work/Website/_laravel-starter/resources/assets/sass/custom-theme/custom-theme.scss",
+		"/D/Work/Website/works.petch.e-meeting/composer.json",
+		"/D/Work/Website/works.petch.e-meeting/readme.md",
+		"/D/Work/Website/works.petch.e-meeting/.env",
+		"/D/Work/Website/works.petch.e-meeting/resources/views/layouts/basic-template.blade.php",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/custom-theme/custom/_loader.scss",
+		"/D/Work/Website/works.petch.e-meeting/resources/assets/sass/custom-theme/custom/_loader-variables.sass",
+		"/D/Work/Website/_laravel/.git/index",
+		"/D/Work/Website/_laravel/.git/description",
+		"/D/Work/Website/_laravel/.git/config",
+		"/D/Work/Website/_laravel/composer.json",
+		"/D/Work/Website/com.syslogmatch/.gitattributes",
+		"/D/Work/Website/com.getstamp/.gitattributes",
+		"/D/Work/Website/_laravel/.gitattributes",
+		"/D/Work/Website/_laravel/package.json",
+		"/D/Work/Website/_laravel/.gitignore",
+		"/D/Work/Website/_source/_fonts_icon/ionicons-2.0.1/.gitignore",
+		"/D/Work/Website/_laravel/resources/views/auth/register.blade.php",
+		"/D/Work/Website/_laravel/resources/assets/sass/ionicons-2.0.1/_ionicons-font.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/ionicons-2.0.1/_ionicons-variables.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/app.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/ionicons-2.0.1/_ionicons-icons.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/ionicons-2.0.1/ionicons.scss",
+		"/D/Work/Website/_laravel/resources/views/auth/login.blade.php",
+		"/D/Work/Website/_laravel/resources/views/includes/alert-response-session.blade.php",
+		"/D/Work/Website/_laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/D/Work/Website/_laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/D/Work/Website/com.syslogmatch/resources/lang/th/validation.php",
+		"/D/Work/Website/_laravel/resources/lang/th/validation.php",
+		"/D/Work/Website/com.syslogmatch/resources/lang/th/passwords.php",
+		"/D/Work/Website/_laravel/resources/lang/th/passwords.php",
+		"/D/Work/Website/com.syslogmatch/resources/lang/th/pagination.php",
+		"/D/Work/Website/_laravel/resources/lang/th/pagination.php",
+		"/D/Work/Website/com.syslogmatch/resources/lang/th/auth.php",
+		"/D/Work/Website/_laravel/resources/lang/th/auth.php",
+		"/D/Work/Website/com.syslogmatch/config/app.php",
+		"/D/Work/Website/_laravel/config/app.php",
+		"/D/Work/Website/com.syslogmatch/.gitignore",
+		"/D/Work/Website/_laravel/public/assets/javascripts/init.js",
+		"/D/Work/Website/_laravel/resources/views/layouts/basic-template.blade.php",
+		"/D/Work/Website/_laravel/resources/assets/sass/custom-theme/custom/_loader-variables.sass",
+		"/D/Work/Website/_laravel/resources/assets/sass/custom-theme/custom/_loader-circle.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/custom-theme/custom/_loader.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/custom-theme/custom/_bootstrap-variables.sass",
+		"/D/Work/Website/_source/_css/bootstrap/bootstrap-sass-3.3.6/templates/project/styles.sass",
+		"/D/Work/Website/_laravel/resources/assets/sass/custom-theme/custom-theme.scss",
+		"/D/Work/Website/_source/_css/bootstrap/bootstrap-sass-3.3.6/templates/project/_bootstrap-variables.sass",
+		"/D/Work/Website/_laravel/resources/views/includes/loader.blade.php",
+		"/D/Work/Website/_laravel/resources/views/includes/script.blade.php",
+		"/D/Work/Website/com.syslogmatch/public/assets/js/init.js",
+		"/D/Work/Website/_laravel/resources/views/includes/modal.blade.php",
+		"/D/Work/Website/_laravel/resources/views/includes/footer.blade.php",
+		"/D/Work/Website/_laravel/resources/views/layouts/app.blade.php",
+		"/D/Work/Website/_laravel/resources/views/includes/header.blade.php",
+		"/D/Work/Website/_laravel/resources/views/includes/link.blade.php",
+		"/D/Work/Website/_laravel/.env",
+		"/D/Work/Website/_laravel/resources/views/includes/alert-response-errors.blade.php",
+		"/D/Work/Website/com.syslogmatch/resources/views/layouts/basic-template.blade.php",
+		"/D/Work/Website/_laravel/resources/assets/sass/custom/custom.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/custom-theme/custom.scss",
+		"/D/Work/Website/com.syslogmatch/resources/assets/sass/custom/_normalize.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/petch-bootstrap-sass-1.0.0/_petch-bootstrap.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/petch-bootstrap-sass-1.0.0/petch-bootstrap/_variables.scss",
+		"/D/Work/Website/_laravel/resources/assets/sass/petch-bootstrap-sass-1.0.0/petch-bootstrap/mixins/_text-overflow.scss"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"D:\\Work\\Website\\works.petch.e-meeting\\app\\Http\\Controllers",
+			"D:\\Work\\Website\\works.petch.e-meeting\\resources\\views\\admin\\meeting",
+			"D:\\Work\\Website\\_laravel\\.git",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent",
+			"D:\\Work\\Website\\com.syslogmatch\\resources\\views",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Validation",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Website\\com.syslogmatch\\resources\\views",
+			"D:\\Work\\Website\\com.syslogmatch\\resources\\assets\\sass\\bootstrap-sass-3.3.5",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\server\\src\\Scripts",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\Game Server\\_source code\\WarZ\\Infestation\\server\\src\\Scripts",
+			"D:\\Work\\Website\\com.syslogmatch\\public\\assets\\js",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Passwords",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth",
+			"D:\\Work\\Website\\com.syslogmatch\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\WO_GameServer\\Sources",
+			"D:\\Work\\Website\\_warz_hack",
+			"C:\\inetpub\\wwwroot\\warz_hack",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site\\App_Code",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[CC]BattleSystem",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[CC]BattleSystem",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\4DyuchiGRX_myself97_util",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Lib]YHLibrary_old",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Lib]YHLibrary",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent_old",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Client]MH",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent_old",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Website\\net.myserver\\resources\\views\\control\\page",
+			"D:\\Work\\Website\\net.myserver\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation",
+			"D:\\Work\\Website\\net.myserver\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\net.myserver\\vendor\\laravel",
+			"D:\\Work\\Website\\net.myserver\\app\\Http",
+			"D:\\Work\\Website\\net.myserver\\config",
+			"D:\\Work\\Website\\net.myserver\\app\\Http",
+			"D:\\Work\\Website\\net.myserver\\resources\\views\\control",
+			"D:\\Work\\Website\\net.myserver\\app\\Http\\Controllers\\Control",
+			"D:\\Work\\Website\\net.myserver\\resources\\assets\\sass\\admin\\custom",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Database",
+			"D:\\Work\\Website\\com.last-mso\\resources\\views\\admin",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate\\Database",
+			"D:\\Work\\Website\\com.last-mso\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\ModelView",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Client]MH",
+			"D:\\Work\\Visual Studio\\CPP\\Mo Siang\\source code\\[Server]Agent",
+			"D:\\Work\\Website\\com.last-mso\\resources\\assets\\sass\\jasny-bootstrap-sass-3.1.3",
+			"D:\\Work\\Visual Studio\\CPP\\WarZ\\Infestation\\server\\src",
+			"D:\\Work\\Visual Studio\\CPP\\last-mso\\source code\\[Client]MHAutoPatch",
+			"D:\\Work\\Visual Studio\\CPP\\last-mso\\source code\\[Client]MHAutoPatch\\ZipArchive",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources\\GameCode",
+			"D:\\Work\\Visual Studio\\Infestation\\src",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources\\GameCode",
+			"D:\\Work\\Visual Studio\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources\\GameCode",
+			"D:\\Work\\Visual Studio\\Infestation\\src",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\Eternity",
+			"D:\\Work\\Visual Studio\\Infestation\\src",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources",
+			"D:\\Work\\Visual Studio\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Visual Studio\\Infestation\\src\\EclipseStudio\\Sources",
+			"D:\\Work\\Visual Studio\\Infestation\\server\\src\\Scripts\\WZBackend-ASP.NET\\Site",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\vendor\\laravel\\framework\\src\\Illuminate\\Encryption",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views\\admin",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views\\manage",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views\\admin",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\assets\\sass\\bootstrap\\mixins",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views",
+			"D:\\Work\\Website",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\public\\assets\\js\\plugins\\jquery.bootgrid",
+			"D:\\Work\\Website\\th.ac.dusit.sci.56119400031\\resources\\views",
+			"D:\\Work\\IPST Micro BOX\\_source\\Example_ipst",
+			"C:\\WarZ\\src",
+			"C:\\WarZ",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\app",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\app\\Http\\Middleware",
+			"C:\\WarZ\\server\\src\\Scripts\\sql_warz_svn\\Stored Procedures",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.dm-pvp.admin\\vendor\\laravel\\framework\\src\\Illuminate\\Auth",
+			"D:\\Work\\Website\\com.dm-pvp.admin",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\views",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\views\\page",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\custom",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap",
+			"D:\\Work\\Website\\com.petch-studio.admin\\resources\\_sources\\bootstrap-sass-3.3.5\\bootstrap\\mixins",
+			"D:\\Work\\Website\\com.dm-pvp.admin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"users",
+			"Meeting::where('created_by', Auth::user())",
+			"table-meeting-today",
+			"storage",
+			"table-meeting",
+			"404",
+			"user",
+			"*",
+			"news_category",
+			"$id",
+			"Position::",
+			"ตำแหน่ง",
+			"year",
+			"day",
+			"row",
+			"-4",
+			"4",
+			"admin.meetingUser",
+			"position",
+			"Position",
+			"position",
+			"upload(",
+			"button",
+			"'user'",
+			"user",
+			"$user",
+			"user",
+			"name",
+			"Carbon::",
+			"event",
+			"name",
+			"ผู้ใช้",
+			"class=\"selectpicker\"",
+			"name",
+			"day",
+			"name",
+			"6",
+			"</select>",
+			"\\",
+			"name",
+			"generation",
+			"ตำแหน่งการประชุม",
+			"ตำแหน่งการประชุม\nตำแหน่งการประชุม\nตำแหน่งการประชุม",
+			"ตำแหน่งการประชุม",
+			"ตำแหน่งการประชุมทั้งหมด",
+			"position",
+			"ตำแหน่ง",
+			"position",
+			"Position",
+			"created_by",
+			"users",
+			"firstname",
+			"first",
+			"ผู้ใช้งาน",
+			"firstname",
+			"ผู้ใช้งาน",
+			"users",
+			"	    ",
+			"firstname",
+			"ผู้ใช้",
+			"username",
+			"admin.user",
+			"User::",
+			"เพิ่ม",
+			" = ",
+			"$request->input(",
+			"user",
+			"$request->",
+			"user",
+			"$request->input(",
+			"prefix",
+			"old(",
+			"password",
+			"$table->",
+			"$request",
+			"))",
+			"$request('xxx')",
+			"$request(",
+			"prefix",
+			"$data['name']",
+			"sm",
+			"col-md-4",
+			"username",
+			"inputEmail3",
+			"redirectTo",
+			"password",
+			"name",
+			"The must be a valid email address.",
+			"The email must be a valid email address.",
+			"username",
+			"email",
+			"2",
+			"3",
+			"$navbar-height",
+			"$navbar-padding-vertical",
+			"bootstrap/",
+			"@import",
+			"navbar-brand",
+			"css",
+			"*.sublime-workspace",
+			"incrementLoginAttempts",
+			"sendFailedLoginResponse(",
+			"create(",
+			"sendFailedLoginResponse",
+			"getFailedLoginMessage",
+			"rgba(0, 0, 0, 0.2)",
+			"loader-",
+			"rgba(0, 0, 0, 0.2)",
+			"-wraper",
+			"666",
+			"0092FF",
+			"255",
+			"loader-modal",
+			"css/",
+			"js/",
+			"js",
+			",\n",
+			", ",
+			"str_pad",
+			"work-list",
+			"$request",
+			"Request",
+			"city",
+			"$data[",
+			"ProfileController",
+			"work-list",
+			"geo",
+			"request"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"การประชุม",
+			"url('start-project')",
+			"<?php ",
+			"asset('api/storage/",
+			"D:\\Work\\Website\\_warz_hack\\",
+			"SESSION_KEY",
+			"SESSION_KEY\n//////////////////////////////////////////////////////////////////////",
+			"// Battle.*\\.\n//////////////////////////////////////////////////////////////////////",
+			"// Battle",
+			".\n//////////////////////////////////////////////////////////////////////",
+			"// BattleTeam",
+			".\n//////////////////////////////////////////////////////////////////////",
+			"",
+			"_strupr",
+			"{{ url('options/",
+			"",
+			"control.layouts.page",
+			"fa-caret",
+			"fa-angle-up",
+			"fa-angle-down",
+			"sendStatusSaveResponse",
+			"Option::",
+			"Option",
+			"bg-",
+			"$nav-aside-width",
+			"petchxyz.com",
+			"$brand-dark",
+			"Auth::guard('admin')->",
+			"/",
+			"ssxpetch.com",
+			"/",
+			"\"",
+			"$request",
+			"$type",
+			"$request",
+			"$request->input('",
+			"",
+			"$this->searchPhrase",
+			"$searchPhrase",
+			"$hardware->type",
+			"request->",
+			"span",
+			"@{{",
+			"<i class=\"fa arrow\"></i>",
+			"Auth::user()->admin()",
+			"",
+			"</option><option",
+			"</option>\n<option",
+			"\\\"",
+			"$request->",
+			"',\n      'UsersData.",
+			"',\n      'Accounts.",
+			"",
+			"Account::check",
+			"petch-studio",
+			"D:\\Work\\Website",
+			"assets/images/ex/media/gallery/",
+			"bg-",
+			"h5",
+			"h3",
+			"upload/profile-pics/",
+			"summernote",
+			"light-green",
+			"light-blue",
+			"blue-gray",
+			" white-text bg-",
+			"bg-",
+			"assets/images/ex/media/carousel/",
+			"assets/images/ex/media/gallery/",
+			"assets/images/ex/700x400.gif",
+			"",
+			"text-center bg-white m-b-30 p-t-30 p-r-10 p-b-30 p-l-10",
+			"bg-white m-b-30 p-t-30 p-r-10 p-b-30 p-l-10",
+			"bg-white m-b-30 p-10",
+			"m-b-30 p-10",
+			"'   => [",
+			"\",\n    ],",
+			"\",\n    ];",
+			"        \"",
+			"        ",
+			"\",\n  \"",
+			"\"darken-3\"    => \"",
+			"\"darken-2\"    => \"",
+			"\"darken-1\"    => \"",
+			"\"    => \"",
+			"\"base\"        => \"",
+			"\"        => \"",
+			"\"   => \"#",
+			"\"   => #",
+			"zmdi zmdi-calendar-close",
+			"zmdi zmdi-calendar-check",
+			"zmdi zmdi-calendar",
+			"zmdi zmdi-time",
+			"zmdi zmdi-chevron-up",
+			"zmdi zmdi-chevron-down",
+			"zmdi zmdi-long-arrow-right",
+			"zmdi zmdi-long-arrow-left",
+			"f-bold",
+			"$brand-primary",
+			"",
+			"<i class=\\\"zmdi zmdi-more-horiz\\\"></i>",
+			"<i class=\\\"zmdi zmdi-chevron-left\\\"></i>",
+			"@{{",
+			"class=\"m-checkbox checkbox-inline\"",
+			".jpg') }}\"",
+			"{{ url('assets/images/ex/profile-pics/",
+			"url('assets/images/",
+			".png') }}\"",
+			"\"{{ url('images/ex/social/",
+			"images/ex/social/",
+			"images/ex/social/facebook-128.png",
+			"",
+			"&",
+			"assets/images/headers/square/",
+			"\n  ",
+			"",
+			"gray",
+			"white-text",
+			"blue-grey",
+			"bg-",
+			"",
+			"./",
+			"upload/profile-pics",
+			"upload/profile",
+			"&",
+			"UserPoint",
+			"",
+			"->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ob477",
+				"storage\\framework\\views\\0b477ca522a20c9d012ffaaaef6d6705"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Work\\Website\\com.dm-pvp\\deathmatch-pvp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

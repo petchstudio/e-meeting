@@ -1,0 +1,46 @@
+/*!
+ * Theme for _laravel
+ * Copyright 2016 Petch Studio.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+// Bootstrap variables
+@import "custom/bootstrap-variables";
+
+// Loader
+@import "custom/loader-variables";
+@import "custom/loader";
+@import "custom/loader-circle";
+
+// Components
+//@import "custom/component-animations";
+//@import "custom/dropdowns";
+//@import "custom/button-groups";
+//@import "custom/input-groups";
+//@import "custom/navs";
+@import "custom/navbar";
+//@import "custom/breadcrumbs";
+//@import "custom/pagination";
+//@import "custom/pager";
+//@import "custom/labels";
+//@import "custom/badges";
+//@import "custom/jumbotron";
+//@import "custom/thumbnails";
+//@import "custom/alerts";
+//@import "custom/progress-bars";
+//@import "custom/media";
+//@import "custom/list-group";
+//@import "custom/panels";
+//@import "custom/responsive-embed";
+//@import "custom/wells";
+//@import "custom/close";
+
+// Components w/ JavaScript
+//@import "custom/modals";
+//@import "custom/tooltip";
+//@import "custom/popovers";
+//@import "custom/carousel";
+
+// Utility classes
+//@import "custom/utilities";
+//@import "custom/responsive-utilities";
